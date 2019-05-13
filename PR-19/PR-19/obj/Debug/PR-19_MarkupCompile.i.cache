@@ -2,19 +2,19 @@
 
 
 winexe
-VB
-.vb
-\\kip.college\dfs\Roaming\Redirection\165263\Documents\Visual Studio 2013\Projects\PR-19\PR-19\obj\Debug\
+C#
+.cs
+C:\Users\HecklerK\source\repos\PR-19\PR-19\obj\Debug\
 PR_19
 none
 false
-
-\\kip.college\dfs\Roaming\Redirection\165263\Documents\Visual Studio 2013\Projects\PR-19\PR-19\Application.xaml
+DEBUG;TRACE
+C:\Users\HecklerK\source\repos\PR-19\PR-19\App.xaml
 11151548125
 
-7-986259103
-10-2017953140
+6-2023557375
+131254293103
 MainWindow.xaml;
 
-False
+True
 
